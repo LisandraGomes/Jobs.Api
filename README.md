@@ -8,7 +8,7 @@ Pontos a cobrir:
 
   3 . Banco de Dados InMemory com Entity Framework
 
-  4 . Retornos de acordo com o HTTP
+  4 . Retornos de acordo com o HTTP (Utilizando o 404 NotFound caso não seja encontrado informação)
 
   5 . Dados Formatados em JSON
 
