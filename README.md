@@ -12,3 +12,19 @@ Pontos a cobrir:
 
   5 . Dados Formatados em JSON
 
+Estrutura da API Criada
+https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Estrutura%20Criada.png
+
+Swagger
+https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Swagger.png
+
+Consulta Sem informações
+https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Consulta%20sem%20informa%C3%A7%C3%A3o.png
+
+Criação da Inserção
+https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Cria%C3%A7%C3%A3o%20Inser%C3%A7%C3%A3o.png
+
+https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Cria%C3%A7%C3%A3o%20Retorno.png
+
+Deleção 
+https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Delete%20com%20Sucesso.png
