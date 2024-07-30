@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\services\\jobsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\services\\jobsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobsServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Services\\JobsServices.cs",
+              "RelativeDocumentMoniker": "Jobs.Api\\Services\\JobsServices.cs",
+              "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Services\\JobsServices.cs",
+              "RelativeToolTip": "Jobs.Api\\Services\\JobsServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:12:11.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Jobs.Api\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Jobs.Api\\Controllers\\JobsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:09:56.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
