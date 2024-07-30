@@ -1,6 +1,6 @@
-###Desafio Técnico Porposto no curso Método .net no portal do Next Wave, especializado em .NET, foi porposto inicialmente o desafio técnico de nível Jr.
+### Desafio Técnico Porposto no curso Método .net no portal do Next Wave, especializado em .NET, foi porposto inicialmente o desafio técnico de nível Jr.
 
-#Pontos a cobrir:
+# Pontos a cobrir:
 
   1 . Api em Asp.Net Core
 
