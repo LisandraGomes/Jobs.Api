@@ -13,7 +13,7 @@ Pontos a cobrir:
   5 . Dados Formatados em JSON
 
 Estrutura da API Criada
-<img src="[URL_da_Imagem](https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Estrutura%20Criada.png)" alt="Api Criada">
+<img src="(https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Estrutura%20Criada.png)" alt="Api Criada">
 
 Swagger
 https://github.com/LisandraGomes/Jobs.Api/blob/Lisandra/Imagens/Swagger.png
