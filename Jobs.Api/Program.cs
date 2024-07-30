@@ -1,9 +1,13 @@
 using Jobs.Api.Interfaces;
+using Jobs.Api.Persistence;
 using Jobs.Api.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<JobDbContext>(
+    o => o.UseInMemoryDatabase("JobsDb"));
 
 builder.Services.AddControllers();
 

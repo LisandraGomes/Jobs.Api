@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\services\\jobsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\services\\jobsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\persistence\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\persistence\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|c:\\users\\lisandra\\documents\\2024\\teste t\u00E9cnico - jr\\jobs.api\\jobs.api\\response\\jobsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C27540-9E94-42F5-85FE-70A0BADF06CF}|Jobs.Api\\Jobs.Api.csproj|solutionrelative:jobs.api\\response\\jobsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "JobsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Response\\JobsResponse.cs",
+              "RelativeDocumentMoniker": "Jobs.Api\\Response\\JobsResponse.cs",
+              "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Response\\JobsResponse.cs",
+              "RelativeToolTip": "Jobs.Api\\Response\\JobsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:39:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Jobs.Api\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Models\\Job.cs",
+              "RelativeToolTip": "Jobs.Api\\Models\\Job.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIAwwDsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:07:53.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Jobs.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Program.cs",
+              "RelativeToolTip": "Jobs.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:44:33.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Persistence\\JobDbContext.cs",
+              "RelativeDocumentMoniker": "Jobs.Api\\Persistence\\JobDbContext.cs",
+              "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Persistence\\JobDbContext.cs",
+              "RelativeToolTip": "Jobs.Api\\Persistence\\JobDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:34:49.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "JobsServices.cs",
               "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Services\\JobsServices.cs",
               "RelativeDocumentMoniker": "Jobs.Api\\Services\\JobsServices.cs",
               "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Services\\JobsServices.cs",
               "RelativeToolTip": "Jobs.Api\\Services\\JobsServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T13:12:11.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "JobsController.cs",
               "DocumentMoniker": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Controllers\\JobsController.cs",
               "RelativeDocumentMoniker": "Jobs.Api\\Controllers\\JobsController.cs",
               "ToolTip": "C:\\Users\\Lisandra\\Documents\\2024\\Teste T\u00E9cnico - Jr\\Jobs.Api\\Jobs.Api\\Controllers\\JobsController.cs",
               "RelativeToolTip": "Jobs.Api\\Controllers\\JobsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T13:09:56.572Z",
               "EditorCaption": ""

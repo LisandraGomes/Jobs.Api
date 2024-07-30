@@ -5,11 +5,10 @@ using Microsoft.AspNetCore.Mvc;
 namespace Jobs.Api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
-    public class JobsController : Controller
+    [Route("api/[controller]")]
+    public class JobsController : ControllerBase
     {
         private readonly IJobsService _jobsService;
-
         public JobsController(IJobsService jobsService)
         {
             _jobsService = jobsService;
@@ -17,14 +16,14 @@ namespace Jobs.Api.Controllers
 
         [HttpGet]
         [Route("List")]
-        public IActionResult Listar()
+        public IActionResult List()
         {
             try
             {
                 var result = _jobsService.List();
-                if (result == null)
+                if (result.Count() <= 0)
                 {
-                    return NotFound();
+                    return NotFound("Não foi encontrado nenhuma informação.");
                 }
                 return Ok(result);
             }
@@ -36,11 +35,11 @@ namespace Jobs.Api.Controllers
 
         [HttpGet]
         [Route("Consult/{id}")]
-        public IActionResult Consult(int id) 
+        public IActionResult Consult(int id)
         {
             var result = _jobsService.Consult(id);
             if (result == null)
-                return NotFound();
+                return NotFound("Não foi encontrado nenhuma informação.");
 
             return Ok(result);
         }
@@ -72,7 +71,7 @@ namespace Jobs.Api.Controllers
         public IActionResult Delete(int id)
         {
             var result = _jobsService.DeleteJob(id);
-            if(!result)
+            if (!result)
                 return BadRequest("Algo deu errado.");
 
             return Ok("Sucesso");

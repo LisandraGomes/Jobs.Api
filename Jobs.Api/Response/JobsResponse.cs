@@ -1,6 +1,4 @@
-﻿using Jobs.Api.Models;
-
-namespace Jobs.Api.Returns
+﻿namespace Jobs.Api.Returns
 {
     public class JobsResponse
     {
